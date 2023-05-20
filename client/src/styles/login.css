@@ -1,0 +1,16 @@
+.profile-img{
+    width: 200px;
+    height: 200px;
+    
+}
+h1{
+    padding-bottom: 20px;
+}
+
+input[type='file']{
+    display: none;
+}
+
+.profile-img{
+    margin-bottom: 50px;
+}
