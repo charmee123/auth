@@ -1,4 +1,4 @@
-# authentication project using Mongodb, Reactjs, Express, Nodejs
+# authentication project using Mongodb, Reactjs, Expressjs, Nodejs
 User can Register himself , after registration he can login him self with his right credentials and directed to profile page.
 User can also reset his password and verify email by OTP.
 
